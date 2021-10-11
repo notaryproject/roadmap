@@ -17,10 +17,11 @@ At this time, the Notary community is working on NotaryV2 specification  and two
 
 ### Leading up to the first GA release
 At present four milestones are planned leading up to the first release
-- alpha-1 : Date xxx  : Goal - Get feedback on the notation CLI client and notation 
-- alpha-2 : Date xxx  : Goal - Update specfication and iteration on the notation CLI clients and SDK
-- alpha-3 : Date xxx  : Goal - 
-- RC-1    : Date xxx  : Goal - This is the first release, also referred it as the GA release
+- alpha-1 : Date xxx  : Goal - Get feedback on the notation CLI client and notation implementation at the earliest
+- alpha-2 : Date xxx  : Goal - Merge open PR on the NotaryV2 standard, CLI and Notation specfications; iterate on the notation CLI clients and SDK
+- alpha-3 : Date xxx  : Goal - Finalize the Signature Format (including Payload and Manifest), revocation, and scope signatur verification policy; Add local storage for CLI client
+- RC-1    : Date xxx  : Goal - This is the first release, also referred it as the GA release. Will use the finalized signature format; Notation integration with remote key stores and signing services
+
 
 ## Getting Involved
 
