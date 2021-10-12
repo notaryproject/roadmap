@@ -7,7 +7,7 @@ At this time, the Notary community is working on NotaryV2 specification  and two
 
 ### Current (Short term) Focus
 - Putting Alpha Release(s) out of Notation for early feedback and testing. Multiple "alpha" milestones are tracking to it and each milestone will be accompanied by one release
-- Iterate on the Notary V2 specification for the first GA Release. 
+- Iterate on the Notary V2 specification and be done with the alpha releases. 
 - Collaborate with other open source projects for co-related/dependent features needed for end to end use case of OCI artifacts signing
 
 ### Future (Mid to Long term) Focus
