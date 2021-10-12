@@ -11,7 +11,7 @@ At this time, the Notary community is working on NotaryV2 specification  and two
 - Collaborate with other open source projects for co-related/dependent features needed for end to end use case of OCI artifacts signing
 
 ### Future (Mid to Long term) Focus
-- Release the first [GA version of the Notary V2 specification and Notation](https://github.com/iamsamirzon/ForTestPurpose/projects/1). This milestone is marked as "RC-1"
+- Release the first GA version of the Notary V2 specification and Notation. This milestone is marked as "RC-1"
 - Iterate on supporting additional signature formats in the specification
 - Support Revocation in the Notation Client
 
