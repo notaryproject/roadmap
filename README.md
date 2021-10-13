@@ -22,11 +22,12 @@ At this time, the Notary community is working on NotaryV2 specification  and two
 - [alpha-3](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3Aalpha-3) : Goal - Finalize the Signature Format (including Payload and Manifest), revocation, and scoped signature verification policy; Finalize local storage for CLI client
 - [RC-1](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ARC-1)    : Goal - This is the first release, also referred it as the GA release. Will use the finalized signature format; Notation integration with remote key stores and signing services
 
-| Repo | Related High Level Roadmap items for above milestones  | Repo level project board for above milestones  |
+| Repo | Related High Level Roadmap items for above milestones  | Repo level project board (*filter based on milestones as you need them*)  |
 |------|-----------------------------------------------------------|--------------------------------------------------|
 |[Notaryproject](https://github.com/notaryproject/notaryproject)| [Issues labeled with "notaryproject"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotaryproject) | [Link to Repo Project board](https://github.com/notaryproject/notaryproject/projects/9)|
 |[Notation](https://github.com/notaryproject/notation)| [Issues labeled with "notation-CLI"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-CLI) | [Link to Repo Project board](https://github.com/notaryproject/notation/projects/2)|
 |[Notation-go-lib](https://github.com/notaryproject/notation-go-lib)| [Issues labeled with "notation-API"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-API) | [Link to Repo Project board](https://github.com/notaryproject/notation-go-lib/projects/1)|
+| Consolidated Top Level View  | [Roadmap milestones across all repos](https://github.com/iamsamirzon/roadmap/projects/1) | [From all repos](https://github.com/orgs/notaryproject/projects/3) |
 
 ## Getting Involved
 
