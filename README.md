@@ -3,17 +3,17 @@
 The Notary v2 team uses the [Roadmap GitHub Project Board](https://github.com/notaryproject/roadmap/projects/1) to track short term (1-3 months) and medium term (3-6 months) efforts and long term (6-12 months). Once a broad objective (from the "Future/Backlog" column) is further scoped into a GitHub issue that has a clear objective, background and motive, it is moved into the "To do" column. From there, the team plans releases via [GitHub Milestones](https://github.com/notaryproject/roadmap/milestones).
 
 ## Current and Future Objectives
-At this time, the Notary community is working on Notary v2 specification  and two separate sub projects, TUF and Notation. This roadmap is focused  on the Notary v2 specification and its reference implementation Notation client.
+At this time, the Notary community is working on Notary v2 specification  and two separate sub projects, TUF and Notation. This roadmap is focused  on the NotaryV2 specification and its reference implementation Notation client.
 
 ### Current (Short term) Focus
-- Collaborate with other open source projects for co-related/dependent features needed for signature verification with other open source clients
+- Collaborate with other open source projects for co-related/dependent features needed for end to end use case of OCI artifacts verification
 
 ### Future (Mid to Long term) Focus
 - Iterate on the Notary v2 specfication and Notation client based on community feedback
 - Add Revocation support in the Notation Client
 
 ### Leading up to the first stable release
-* The following milestones lead up to the first release. During alpha and beta milestones, backwards compatabilty is not guranteed. Refer release definitions [here](https://github.com/notaryproject/notation/blob/main/RELEASE_MANAGEMENT.md). CLI clients and SDK will be iterated. Test cases will be added along the way.After RC-1 backward compatability will be maintained*
+* The following milestones lead up to the first release. During alpha and beta milestones, backwards compatabilty is not guranteed. CLI clients and SDK will be iterated. Test cases will be added along the way.After RC-1 backward compatability will be maintained*
 - [alpha-1](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3Aalpha-1) [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.alpha-1.MD) : Goal - Get feedback on the notation CLI client and notation user expereince
 - [alpha-2](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3Aalpha-2) [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.alpha-2.MD): Goal - Merge open PR on the NotaryV2 standard, CLI and Notation specfications; 
 - [alpha-3](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3Aalpha-3)  [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.alpha-3.MD):  Goal - Introduce Plugins for signing and verification; Manage signatures in OCI registries using [ORAS Artifacts Specification v1.0.0-RC.2] (https://github.com/oras-project/artifacts-spec/releases/tag/v1.0.0-rc.2)
