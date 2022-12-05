@@ -28,8 +28,9 @@ At this time, the Notary community is working on NotaryV2 specification  and two
 |------|-----------------------------------------------------------|--------------------------------------------------|
 |[Notaryproject](https://github.com/notaryproject/notaryproject)| [Issues labeled with "notaryproject"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotaryproject) | [Link to Repo Project board](https://github.com/notaryproject/notaryproject/projects/9)|
 |[Notation](https://github.com/notaryproject/notation)| [Issues labeled with "notation-CLI"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-CLI) | [Link to Repo Project board](https://github.com/notaryproject/notation/projects/2)|
-|[Notation-go-lib](https://github.com/notaryproject/notation-go-lib)| [Issues labeled with "notation-API"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-API) | [Link to Repo Project board](https://github.com/notaryproject/notation-go-lib/projects/1)|
-| Consolidated Top Level View  | [Roadmap milestones across all repos](https://github.com/iamsamirzon/roadmap/projects/1) | [From all repos](https://github.com/orgs/notaryproject/projects/3) |
+|[Notation-go](https://github.com/notaryproject/notation-go)| [Issues labeled with "notation-API"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-API) | [From all repos](https://github.com/orgs/notaryproject/projects/10)|
+|[Notation-core-go](https://github.com/notaryproject/notation-core-go)| [Issues labeled with "notation-API"](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=label%3Anotation-API) | [From all repos](https://github.com/orgs/notaryproject/projects/10)|
+| Consolidated Top Level View  | [Roadmap milestones across all repos](https://github.com/iamsamirzon/roadmap/projects/1) | [From all repos](https://github.com/orgs/notaryproject/projects/10) |
 
 ## Getting Involved
 
