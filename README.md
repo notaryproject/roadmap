@@ -21,7 +21,8 @@ At this time, the Notary community is working on Notary v2 specification  and tw
 - [alpha-4](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3Aalpha-4) [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.alpha-4.MD): Goal - Add COSE signature format 
 - [beta-1](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ABeta-1)   [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.beta-1.MD): Goal - Verify using Trust Store and Trust Policy 
 - [RC-1](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ARC-1)       [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.rc-1.MD)): Goal -First supported release from Notary v2 community. JWS and COSE signature formats. Notation CLI client 
-- [RC-2](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ARC-2)       [TBD] Goal - Support "Fallback" method for OCI 1.0 based registries to manage signatures 
+- [RC-2](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ARC-2)       [Release Notes](https://github.com/notaryproject/roadmap/blob/main/RELEASENOTES/v2.0.0.rc-2.MD)): Goal - Support "Fallback" method for OCI 1.0 based registries to manage signatures 
+- [RC-3](https://github.com/iamsamirzon/roadmap/projects/1?card_filter_query=milestone%3ARC-3)       [TBD] 
 
 | Repo | Related High-Level Roadmap items for above milestones  | Repo level project board (*filter based on milestones as you need them*)  |
 |------|-----------------------------------------------------------|--------------------------------------------------|
