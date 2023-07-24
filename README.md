@@ -10,7 +10,7 @@ This repository is **not** in active maintenance. The original purpose is using 
 
 Please see the Notary Project [README](https://github.com/notaryproject/.github/blob/main/README.md) file to learn about overall Notary Project.
 
-If you've got questions or issues with this repository, You can reach the Notary Project community via the following channels:
+If you've got questions or issues with this repository, you can reach the Notary Project community via the following channels:
 
 - [Notary Project Slack channel](https://app.slack.com/client/T08PSQ7BQ/CQUH8U287/)
 - [Notary Project community meetings](https://notaryproject.dev/community/#community-meetings)
