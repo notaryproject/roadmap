@@ -12,6 +12,5 @@ Please see the Notary Project [README](https://github.com/notaryproject/.github/
 
 If you've got questions or issues with this repository, You can reach the Notary Project community via the following channels:
 
-- Join the [Notary Project Slack channel](https://app.slack.com/client/T08PSQ7BQ/CQUH8U287/) for discussions and to ask questions.
-- Follow the [@NotaryProject](https://mobile.twitter.com/NotaryProject) for news about the Notary Project.
-- Join the [Notary Project community meetings](https://notaryproject.dev/community/#community-meetings) to stay on top of the latest discussions and development activities.
+- [Notary Project Slack channel](https://app.slack.com/client/T08PSQ7BQ/CQUH8U287/)
+- [Notary Project community meetings](https://notaryproject.dev/community/#community-meetings)
